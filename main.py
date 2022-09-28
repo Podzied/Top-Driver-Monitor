@@ -64,3 +64,29 @@ def filter_data(data: "html") -> "appintment array":
 		del appointment_array[0]
 		return appointment_array
 
+
+	
+	
+	
+def validate_session(login_username, login_password):
+
+	# This function creates a valid session
+	valid_session_cookie_values = []
+	with sync_playwright() as playwright_client:
+		browser = playwright_client.chromium.launch(headless=True)
+		context = browser.new_context()
+		page = context.new_page()
+		page.goto("https://www.topdriversignals.com/Student/StudentLogin.aspx")
+		page.fill("#txtUserName", login_username)
+		page.fill("#txtPassword", login_password)
+		page.click("text='Login'")
+		time.sleep(3.3)
+
+	# Get the cookies from the context of the browser
+		cookies = context.cookies()
+		for cookie in cookies:
+			if cookie['name'] == "ASP.NET_SessionId":
+				valid_session_cookie_values.append(cookie['value'])
+	# Return the valid cookie
+	return valid_session_cookie_values[1]
+
