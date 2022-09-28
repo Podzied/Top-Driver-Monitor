@@ -15,7 +15,7 @@
   </h4>
 </div>
 <p><font size="3">
-As many of you know I am. The configuration, devices, layout, linked Blog posts and YouTube videos should help inspire you to jump head first into the IOT world.  This is the live working configuration of <strong>my Smart Home</strong>. Use the menu links to jump between sections.  All of the code is under the <em>config</em> directory and free to use and contribute to.  Be sure to subscribe to the <a href="https://eepurl.com/dmXFYz">Blog Mailing list</a> and YouTube Channel. (https://YouTube.com/vCloudInfo)</p>
+As many of you know I am currently studing computer science. The configuration, devices, layout, linked Blog posts and YouTube videos should help inspire you to jump head first into the IOT world.  This is the live working configuration of <strong>my Smart Home</strong>. Use the menu links to jump between sections.  All of the code is under the <em>config</em> directory and free to use and contribute to.  Be sure to subscribe to the <a href="https://eepurl.com/dmXFYz">Blog Mailing list</a> and YouTube Channel. (https://YouTube.com/vCloudInfo)</p>
 <div align="center"><a name="menu"></a>
   <h4>
     <a href="https://www.vCloudInfo.com/tag/iot">
