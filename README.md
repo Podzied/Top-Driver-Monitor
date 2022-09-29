@@ -1,8 +1,7 @@
 # Top-Driver-Monitor
 <h1 align="center">
-  <a name="logo" href="https://www.vCloudInfo.com/tag/iot"><img src="https://gridfiti.com/wp-content/uploads/2020/06/Gridfiti_Blog_20-06_MacScreensavers_2_Analog.jpg" alt="Bear Stone Smart Home" width="200"></a>
   <br>
-  Bear Stone Smart Home Documentation
+  Top Driver Monitor Documentation
 </h1>
 <h4 align="center">Be sure to :star: my configuration repo so you can keep up to date on any daily progress!</h4>
 <p align="center"><a align="center" target="_blank" href="https://vcloudinfo.us12.list-manage.com/subscribe?u=45cab4343ffdbeb9667c28a26&id=e01847e94f"><img src="https://feeds.feedburner.com/RecentCommitsToBearStoneHA.1.gif" alt="Recent Commits to Bear Stone Smart Home" style="border:0"></a></p>
@@ -15,7 +14,7 @@
   </h4>
 </div>
 <p><font size="3">
-As many of you know I am currently studing computer science. The configuration, devices, layout, linked Blog posts and YouTube videos should help inspire you to jump head first into the IOT world.  This is the live working configuration of <strong>my Smart Home</strong>. Use the menu links to jump between sections.  All of the code is under the <em>config</em> directory and free to use and contribute to.  Be sure to subscribe to the <a href="https://eepurl.com/dmXFYz">Blog Mailing list</a> and YouTube Channel. (https://YouTube.com/vCloudInfo)</p>
+As many of you know I am currently a high school student studying computer science, along with that I need to complete drivers for my drivers education class in order to pass and get my drivers license. Because of this I created the Top Driver monitor. It is a monitor that continously checks TopDriver for any avalible drives. You can search by location, date, time, appointment type, pickup type, and many other filters. This is just one example of how I use programming in my daily life.</p>
 <div align="center"><a name="menu"></a>
   <h4>
     <a href="https://www.vCloudInfo.com/tag/iot">
