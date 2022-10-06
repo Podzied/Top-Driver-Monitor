@@ -6,7 +6,7 @@
 <h4 align="center">Be sure to :star: my configuration repo so you can keep up to date on any daily progress!</h4>
 <div align="center">
   <h4>
-    <a href="https://github.com/CCOSTAN/Home-AssistantConfig/commits/master"><img src="https://img.shields.io/github/last-commit/CCOSTAN/Home-AssistantConfig.svg?style=plasticr"/></a>
+    <a href="https://github.com/Podzied/Top-Driver-Monitor/commits/master"><img src="https://github.com/Podzied/Top-Driver-Monitor/commits/master"/></a>
         <a href="https://github.com/CCOSTAN/Home-AssistantConfig/commits/master"><img src="https://img.shields.io/github/commit-activity/y/CCOSTAN/Home-AssistantConfig.svg?style=plasticr"/></a>
 
   </h4>
