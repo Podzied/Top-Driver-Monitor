@@ -15,47 +15,6 @@
 </div>
 <p><font size="3">
 As many of you know I am currently a high school student studying computer science, along with that I need to complete drivers for my drivers education class in order to pass and get my drivers license. Because of this I created the Top Driver monitor. It is a monitor that continously checks TopDriver for any avalible drives. You can search by location, date, time, appointment type, pickup type, and many other filters. This is just one example of how I use programming in my daily life.</p>
-<div align="center"><a name="menu"></a>
-  <h4>
-    <a href="https://www.vCloudInfo.com/tag/iot">
-      Blog
-    </a>
-    <span> | </span>
-    <a href="https://github.com/CCOSTAN/Home-AssistantConfig#devices">
-      Devices
-    </a>
-    <span> | </span>
-    <a href="https://github.com/CCOSTAN/Home-AssistantConfig/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc">
-      Todo List
-    </a>
-    <span> | </span>
-    <a href="https://twitter.com/BearStoneHA">
-      Smart Home Stats
-    </a>
-    <span> | </span>
-    <a href="https://www.vcloudinfo.com/click-here">
-      Follow Me
-    </a>
-    <span> | </span>
-    <a href="https://github.com/CCOSTAN/Home-AssistantConfig/tree/master/config">
-      Code
-    </a>
-    <span> | </span>
-    <a href="https://github.com/CCOSTAN/Home-AssistantConfig#diagram">
-      Diagram
-    </a>
-    <span> | </span>
-    <a href="https://youtube.com/vCloudInfo">
-      Youtube
-    </a>
-    <span> | </span>
-    <a href="https://amzn.to/2HXSx2M">
-      Merch
-    </a>
-  </h4>
-</div>
-
-![Screenshot of Home Assistant Header](https://i.imgur.com/vjDH1LJ.png)
 
 As of 2018, I have migrated everything to a Docker based platform.  You can read all about it here:
 [Migration Blog Post](https://www.vCloudInfo.com/2018/02/journey-to-docker.html)
