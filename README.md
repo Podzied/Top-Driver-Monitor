@@ -7,7 +7,6 @@
 <div align="center">
   <h4>
     <a href="https://github.com/Podzied/Top-Driver-Monitor/commits/master"><img src="https://github.com/Podzied/Top-Driver-Monitor/commits/master"/></a>
-        <a href="https://github.com/CCOSTAN/Home-AssistantConfig/commits/master"><img src="https://img.shields.io/github/commit-activity/y/CCOSTAN/Home-AssistantConfig.svg?style=plasticr"/></a>
 
   </h4>
 </div>
